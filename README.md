@@ -6,6 +6,8 @@ Gamil: **assynubusiness@gmail.com**
 <br />
 Discord: **https://discord.gg/mV7zEkeF87**
 <br />
+### About Me
+I've been learning programming for 3 years. I'm codding in C#, C++, JS and some other lenguages. I also write FiveM scripts.
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
