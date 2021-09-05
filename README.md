@@ -2,7 +2,7 @@
 **I'm a Student, Motorcyclist and Developer!!**
 
 ### Contact
-Gamil: **assynubusiness@gmail.com**
+Gmail:**assynubusiness@gmail.com**
 <br />
 Discord: **https://discord.gg/mV7zEkeF87**
 <br />
