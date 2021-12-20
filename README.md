@@ -1,6 +1,7 @@
 ### Hello everyone 👋
 
 ### 💜 C# 💜
+Also learning Java :D
 
 ### Contact
 Gmail: **assynubusiness@gmail.com**
