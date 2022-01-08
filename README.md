@@ -17,6 +17,9 @@
   <img alt="TypeScript"
     src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   <br>
+<img alt="Kotlin"
+    src="https://img.shields.io/badge/kotlin%20-%23007ACC.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <br>
    <b>Socials</b>
   <br>
   <a href="mailto:assynubusiness@gmail.com" target="_blank"><img
@@ -27,5 +30,5 @@
       src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
   <br>
 <h1>About me</h1>
-I've been learning programming for 3 years. I'm codding in C#, LUA, JS and some other lenguages. I also used to write FiveM scripts.
+I've been learning programming for 3 years. I'm codding in C#, LUA, JS Kotlin and some other lenguages. I also used to write FiveM scripts.
 </p>
