@@ -1,7 +1,7 @@
 <p align="center">
 <h1><a href="https://assynu.net/">ASSTNU.NET</a></h1>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ASSYNU&show_icons=true&theme=github_dark"></img>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omansak&layout=compact&theme=github_dark"></img>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASSYNU&layout=compact&theme=github_dark"></img>
   <br>
   <img src="https://badges.pufler.dev/visits/assynu/assynu">
   <img src="https://badges.pufler.dev/years/assynu">
