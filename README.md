@@ -3,9 +3,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ASSYNU&show_icons=true&theme=github_dark"></img>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASSYNU&layout=compact&theme=github_dark"></img>
   <br>
-  <img src="https://badges.pufler.dev/visits/assynu/assynu">
-  <img src="https://badges.pufler.dev/years/assynu">
-  <img src="https://badges.pufler.dev/repos/assynu">
+  <div>
+    <img src="https://badges.pufler.dev/visits/assynu/assynu">
+    <img src="https://badges.pufler.dev/years/assynu">
+    <img src="https://badges.pufler.dev/repos/assynu">
+  <div>
   <br>
   <b>My most using technologies</b>
   <br>
@@ -14,6 +16,7 @@
   <img alt="NodeJS"
     src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="JavaScript"
+<br>
     src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="TypeScript"
     src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
