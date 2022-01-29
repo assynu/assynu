@@ -39,4 +39,6 @@
   <br>
 <h1>About me</h1>
 I've been learning programming for 3 years. I'm codding in C#, LUA, JS Kotlin and some other lenguages. I also used to write FiveM scripts.
+<h1>Orders</h1>
+If you want me to do any type of desktop / web app just contact with me!
 </p>
