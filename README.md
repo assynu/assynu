@@ -20,4 +20,4 @@ I do mostly .NET stuff, but I also like to mess around with TypeScript (NextJS F
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assynu&layout=compact&count_private=true)
 
 [Website](https://micorix.com) •
-[Send me an email](mailto:hello@micorix.com)
+[Send me an email](mailto:contect@assynu.net)
