@@ -1,24 +1,23 @@
-<p align="center">
-<h1><a href="https://assynu.net/">ASSTNU.NET</a></h1>
-<br>
-<div>
-  <img src="https://badges.pufler.dev/visits/assynu/assynu">
-  <img src="https://badges.pufler.dev/years/assynu">
-  <img src="https://badges.pufler.dev/repos/assynu">
-</div>
-<br>
-<div>
-  <b>My favourite technologies: .NET (C#), TypeScript
-</div>
-<br>
-  <b>Contact: </b>
-  <a href="mailto:assynubusiness@gmail.com" target="_blank">assynubusiness@gmail.com</a>
-<br>
-<h1>About me</h1>
-I've been learning programming for 3 years. I'm codding in C#, LUA, JS Kotlin and some other lenguages. I also used to write FiveM scripts.
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASSYNU&layout=compact&theme=github_dark"></img>
-</div>
-<h1>Orders</h1>
-If you want me to do any type of desktop / web app just contact with me!
-</p>
+# Hi there!
+My name is Dawid and I'm 🇵🇱 17 y/o .NET Developer and open-source fan.
+
+## Major projects
+
+### Vulcanova
+Unofficial Vulcan UONET+ Xamarin.Forms mobile client.
+
+[![Vulcanova](https://github-readme-stats.vercel.app/api/pin/?username=VulcanovaApp&repo=Vulcanova)](https://github.com/VulcanovaApp/Vulcanova)
+
+### FameMMA Tracker
+Unofficial Xamarin.Forms mobile app for FameMMA events, movies and posts
+
+[![FameMMA Tracker](https://github-readme-stats.vercel.app/api/pin/?username=FameTracker&repo=FameTreacker)](https://github.com/FameTracker/FameTreacker)
+
+## My stack 💻
+
+I do mostly .NET stuff, but I also like to mess around with TypeScript (NextJS Framework).
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assynu&layout=compact&count_private=true)
+
+[Website](https://micorix.com) •
+[Send me an email](mailto:hello@micorix.com)
