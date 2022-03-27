@@ -15,7 +15,7 @@ Unofficial Xamarin.Forms mobile app for FameMMA events, movies and posts
 
 ## My stack 💻
 
-I do mostly .NET stuff, but I also like to mess around with TypeScript (NextJS Framework).
+I do mostly do .NET stuff, but I also like to mess around with TypeScript (NextJS Framework).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assynu&count_private=true&hide=Lua)
 
