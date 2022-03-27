@@ -17,7 +17,7 @@ Unofficial Xamarin.Forms mobile app for FameMMA events, movies and posts
 
 I do mostly .NET stuff, but I also like to mess around with TypeScript (NextJS Framework).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assynu&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assynu&count_private=true&hide=Lua)
 
 [Website](https://micorix.com) •
 [Send me an email](mailto:contect@assynu.net)
